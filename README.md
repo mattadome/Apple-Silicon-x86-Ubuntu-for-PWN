@@ -23,4 +23,4 @@ vagrant ssh
 
 # Credits
 - Shoutout to the Medium Article that got this idea rolling: https://medium.com/@TETRA2000/do-m1-mac-dream-of-x86-linux-117478fc9623
-- The installation and Vagrantfile template was adapated
+- The installation and Vagrantfile template was adapated from the following gist: https://gist.github.com/beauwilliams/69eabc42e540a309f53d55c4b8e6ffe3
