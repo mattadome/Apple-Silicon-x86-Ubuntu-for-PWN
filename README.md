@@ -1,7 +1,7 @@
 # Apple Silicon x86 Ubuntu for PWN
 A simple guide to set up Vagrant with an installation of x86_64 Ubuntu 22.04 containing GDB and Pwntools on Apple Silicon devices. This Vagrantfile enables SMB file sharing. If you don't want that you can remove the synced folder line. SMB does require some set up. View the [docs](https://developer.hashicorp.com/vagrant/docs/synced-folders/smb) for more info.
 
-This repo also has an accompanying blog post [here](https://mattadome.github.io/Cyber-Things/Installing-x86-Ubuntu-for-Pwn-CTFs-on-Apple-Silicon#folder-sharing)
+This repo also has an accompanying blog post [here](https://mattadome.github.io/Cyber-Things/Installing-x86-Ubuntu-for-Pwn-CTFs-on-Apple-Silicon)
 
 
 # Install Guide
